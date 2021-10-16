@@ -22,3 +22,7 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### Deployed version URL:
+
+https://mighty-bastion-36414.herokuapp.com/
